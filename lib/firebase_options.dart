@@ -41,48 +41,17 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBRdpi4WPSSd7Rwvez_Z51qzL7BmHpXjxk',
-    appId: '1:481850791609:web:a072f9e88a4fbb89aaed68',
-    messagingSenderId: '481850791609',
-    projectId: 'my-notes-2b582',
-    authDomain: 'my-notes-2b582.firebaseapp.com',
-    storageBucket: 'my-notes-2b582.appspot.com',
-    measurementId: 'G-09L393657J',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCdfl7Flpl-bFIGelVJL_HOMXUU4xJ9-b0',
-    appId: '1:481850791609:android:95b15d13a838679aaaed68',
-    messagingSenderId: '481850791609',
-    projectId: 'my-notes-2b582',
-    storageBucket: 'my-notes-2b582.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDG-w2qcQUCBBNRAxW4HPTb66N63ibHpnY',
-    appId: '1:481850791609:ios:4ea7d8041ca9011baaed68',
-    messagingSenderId: '481850791609',
-    projectId: 'my-notes-2b582',
-    storageBucket: 'my-notes-2b582.appspot.com',
-    iosBundleId: 'com.myfirst.mynotes',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDG-w2qcQUCBBNRAxW4HPTb66N63ibHpnY',
-    appId: '1:481850791609:ios:4ea7d8041ca9011baaed68',
-    messagingSenderId: '481850791609',
-    projectId: 'my-notes-2b582',
-    storageBucket: 'my-notes-2b582.appspot.com',
-    iosBundleId: 'com.myfirst.mynotes',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBRdpi4WPSSd7Rwvez_Z51qzL7BmHpXjxk',
-    appId: '1:481850791609:web:e4fb99f381a6cacbaaed68',
-    messagingSenderId: '481850791609',
-    projectId: 'my-notes-2b582',
-    authDomain: 'my-notes-2b582.firebaseapp.com',
-    storageBucket: 'my-notes-2b582.appspot.com',
-    measurementId: 'G-JT4E66WB39',
   );
 }
